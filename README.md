@@ -3,7 +3,7 @@ Team13 - Museum
 
 
 
-Solution Concept
+##Solution Concept
 
 💡 A virtual museum for paintings and their information (Artists, descriptions, etc)
 

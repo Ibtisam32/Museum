@@ -46,9 +46,6 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 <img width="1088" alt="Screenshot 1444-08-29 at 5 04 30 PM" src="https://user-images.githubusercontent.com/117020066/226635864-c8bf2284-dad3-4f12-8d35-862c8dbd0494.png">
 
 
-<img width="659" alt="Screenshot 1444-08-22 at 3 33 14 PM" src="https://user-images.githubusercontent.com/117020066/226636326-084cc2d4-76ac-46ee-b755-c97d3814f096.png">
-
-
 <img width="839" alt="Screenshot 1444-08-29 at 5 05 34 PM" src="https://user-images.githubusercontent.com/117020066/226636349-7c17c223-b418-46a3-9a8a-1fed93c8d659.png">
 
 

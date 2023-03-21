@@ -25,10 +25,18 @@ ER Diagram, (UML) diagram or any method you used to represent your database sche
 
 <img width="727" alt="Screenshot 1444-08-29 at 4 22 09 PM" src="https://user-images.githubusercontent.com/117020066/226618868-64d24be5-d3e0-420e-b369-e0032d11b309.png">
 
-Artwork Table 
+
+
+#Artwork Table 
+
+
 
 <img width="1119" alt="Screenshot 1444-08-29 at 3 44 11 PM" src="https://user-images.githubusercontent.com/117020066/226609700-40898808-9f45-4f1f-800d-3834295cad9c.png">
 
-Artist Table
+
+
+#Artist Table
+
+
 
 <img width="515" alt="Screenshot 1444-08-29 at 3 46 44 PM" src="https://user-images.githubusercontent.com/117020066/226618642-f24177e3-73aa-467b-9453-17bcd61f8d66.png">

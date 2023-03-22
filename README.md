@@ -13,14 +13,15 @@
 
 ## Feature List
 
-Create new masterpieces.
-Get and display to the user.
-Create masterpieces information.
-Update and delete masterpieces information.
-create and update masterpiece description .
-Database Schema
+- Create new masterpieces.
+- Get and display to the user.
+- Create masterpieces information.
+- Update and delete masterpieces information.
+- create and update masterpiece description .
 
-(UML) diagram .
+# Database Schema
+
+## (UML) diagram .
 
 <img width="727" alt="Screenshot 1444-08-29 at 4 22 09 PM" src="https://user-images.githubusercontent.com/117020066/226618868-64d24be5-d3e0-420e-b369-e0032d11b309.png">
 
@@ -28,7 +29,7 @@ Database Schema
 
 <img width="1119" alt="Screenshot 1444-08-29 at 3 44 11 PM" src="https://user-images.githubusercontent.com/117020066/226609700-40898808-9f45-4f1f-800d-3834295cad9c.png">
 
-Artist Table
+## Artist Table
 
 <img width="510" alt="Screenshot 1444-08-30 at 1 43 17 AM" src="https://user-images.githubusercontent.com/90031791/226758179-be16ddbb-840b-47b2-b10a-b578a6170de3.png">
 
@@ -40,11 +41,11 @@ Artist Table
 
 <img width="729" alt="Screenshot 1444-08-30 at 1 45 30 AM" src="https://user-images.githubusercontent.com/90031791/226758539-e3676d64-b7fa-48ec-82a7-a9df43dd5cde.png">
 
-update route
+## Update route
 
 <img width="617" alt="Screenshot 1444-08-30 at 1 46 27 AM" src="https://user-images.githubusercontent.com/90031791/226758719-7148aca1-540a-4a0c-bfd9-54343520dbd2.png">
 
-## update route result
+## Update route result
 
 <img width="758" alt="Screenshot 1444-08-30 at 1 49 46 AM" src="https://user-images.githubusercontent.com/90031791/226759179-5473a824-2152-4221-92f2-0ca1445bbfe1.png">
 
